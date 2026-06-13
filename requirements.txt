@@ -1,0 +1,6 @@
+# SBI Saathi MVP runs on the Python standard library — nothing to install.
+# Python 3.10+ required (uses modern type hints).
+#
+# Optional, for the prototype phase (real LLM / vernacular voice brain):
+#   anthropic           # or your LLM provider of choice
+#   fastapi, uvicorn    # if you outgrow the stdlib server in app.py
