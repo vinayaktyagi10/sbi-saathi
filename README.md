@@ -114,3 +114,14 @@ This repo is the **idea-round starting point**. Path to the prototype round:
 
 Built as a hackathon MVP to demonstrate the core thesis end-to-end. Figures cited
 are from public reporting on SBI/YONO and RBI fraud data (see the idea deck).
+
+## SCREENSHOTS
+
+**Saathi blocking a digital-arrest scam and the vernacular adoption nudge:**
+![Guard mode and Hindi nudge](screenshots/guard-and-hindi.png)
+
+**Default chat state:**
+![Default chat](screenshots/default.png)
+
+**Fraud engine tests passing:**
+![Tests passing](screenshots/tests.png)
